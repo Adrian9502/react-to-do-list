@@ -13,4 +13,3 @@ Understanding how useState work in ReactJS
 ## Demo
 
 ![Website Overview](thumbnail.png)
-# react-to-do-list
